@@ -1,5 +1,4 @@
 body {
-	background-color: red;
 	font-family: 'Charmonman', cursive;
 }
 
@@ -12,4 +11,16 @@ body {
 .size {
 	font-size: 200px;
 	color: yellow;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.red {
+	background-color: red;
+}
+
+.white {
+	color: white;
 }
